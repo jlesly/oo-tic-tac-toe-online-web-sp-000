@@ -1,2 +1,4 @@
 class TicTacToe
-  attr_
+  attr_accesor :board
+  
+  def initialize 
